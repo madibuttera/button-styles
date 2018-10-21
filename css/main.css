@@ -43,7 +43,8 @@ div {
 }
 
 .btn-ghost:hover {
-
+  background-color: #ccc;
+  color: #fff;
 }
 
 .btn-warning {
@@ -54,7 +55,7 @@ div {
 }
 
 .btn-warning:hover {
-
+  background-color: #933;
 }
 
 .btn-small {
