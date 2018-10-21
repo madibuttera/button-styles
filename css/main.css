@@ -24,7 +24,7 @@ div {
 }
 
 .btn-subtle {
-
+  text-decoration: none;
 }
 
 .btn-subtle:hover {
@@ -32,7 +32,7 @@ div {
 }
 
 .btn-ghost {
-
+  text-decoration: none;
 }
 
 .btn-ghost:hover {
@@ -41,7 +41,7 @@ div {
 
 
 .btn-warning {
-
+  text-decoration: none;
 }
 
 .btn-warning:hover {
@@ -57,5 +57,4 @@ div {
 .btn-big {
   font-size: 1.5rem;
   padding: .4em .75em .3em;
-  text-decoration: none;
 }
