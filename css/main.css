@@ -24,6 +24,7 @@ div {
 }
 
 .btn-subtle {
+  background-color: #ccc;
   border-radius: 8px;
   color: #fff;
   text-decoration: none;
@@ -35,7 +36,9 @@ div {
 
 .btn-ghost {
   border-radius: 8px;
-  color: #fff;
+  border-width: 3px;
+  border-color: #000;
+  color: #000;
   text-decoration: none;
 }
 
