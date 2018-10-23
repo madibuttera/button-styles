@@ -45,7 +45,7 @@ div {
 
 .btn-ghost:hover {
   background-color: #ccc;
-  border: none;
+  border-color: #ccc;
   color: #fff;
 }
 
