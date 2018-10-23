@@ -36,15 +36,16 @@ div {
 
 .btn-ghost {
   border-radius: 8px;
-  border-width: 3px;
-  border-color: #000;
+  border: 3px solid #000;
   color: #000;
   text-decoration: none;
 }
 
 .btn-ghost:hover {
   background-color: #ccc;
+  border: none;
   color: #fff;
+
 }
 
 .btn-warning {
